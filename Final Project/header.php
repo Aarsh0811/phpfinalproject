@@ -13,7 +13,8 @@ MAIN-PROJECT -->
 
         <!-- adding our logo which I made using icons -->
           <a class="navbar-brand" href="index.php"><i class="fa-solid fa-b"></i><i class="fa-solid fa-l"></i><i class="fa-solid fa-feather"></i><i class="fa-solid fa-g"></i></a>
-          <div class="collapse navbar-collapse" id="navbarResponsive">
+               <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><i class="fas fa-bars"></i>   Menu</button>  
+        <div class="collapse navbar-collapse" id="navbarResponsive">
             <!-- adding our links -->
               <ul class="navbar-nav ms-auto">
                 <!-- for home page -->
